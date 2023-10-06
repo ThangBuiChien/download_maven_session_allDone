@@ -22,11 +22,11 @@
 </tr>
 <tr>
     <td>Filter</td>
-    <td><a href="/musicStore/sound/${sessionScope.product.getCode()}/filter.mp3">MP3</a></td>
+    <td><a href="https://thang-music-store-8d8bfe3745f3.herokuapp.com/sound/${sessionScope.product.getCode()}/filter.mp3">MP3</a></td>
 </tr>
 <tr>
     <td>So Long Lazy Ray</td>
-    <td><a href="/musicStore/sound/${sessionScope.product.getCode()}/so_long.mp3">MP3</a></td>
+    <td><a href="https://thang-music-store-8d8bfe3745f3.herokuapp.com/sound/${sessionScope.product.getCode()}/so_long.mp3">MP3</a></td>
 </tr>
 </table>
 

@@ -18,11 +18,11 @@
 </tr>
 <tr>
     <td>Neon Lights</td>
-    <td><a href="/musicStore/sound/${sessionScope.product.getCode()}/neon.mp3">MP3</a></td>
+    <td><a href="https://thang-music-store-8d8bfe3745f3.herokuapp.com/sound/${sessionScope.product.getCode()}/neon.mp3">MP3</a></td>
 </tr>
 <tr>
     <td>Tank Hill</td>
-    <td><a href="/musicStore/sound/${sessionScope.product.getCode()}/tank.mp3">MP3</a></td>
+    <td><a href="https://thang-music-store-8d8bfe3745f3.herokuapp.com/sound/${sessionScope.product.getCode()}/tank.mp3">MP3</a></td>
 </tr>
 </table>
 
