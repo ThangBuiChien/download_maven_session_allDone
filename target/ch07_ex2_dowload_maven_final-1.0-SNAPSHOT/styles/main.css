@@ -59,3 +59,8 @@ th, td {
 .align_right {
     text-align: left;
 }
+
+.returnHome{
+    font-size: 20px;
+    text-align: center;
+}
